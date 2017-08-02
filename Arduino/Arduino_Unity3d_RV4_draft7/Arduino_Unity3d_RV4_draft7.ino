@@ -42,8 +42,8 @@
 #define Pin_LCD_5 40
 #define Pin_LCD_6 41
 
-#define Pin_Servo_Micro_1 32  
-#define Pin_Servo_Micro_2 33
+#define Pin_Servo_Micro_1 21
+#define Pin_Servo_Micro_2 22
 #define Pin_Servo_Camera_1 8
 #define Pin_Servo_Camera_2 9
 
